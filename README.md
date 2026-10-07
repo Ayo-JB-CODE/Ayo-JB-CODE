@@ -24,5 +24,5 @@ I enjoy solving technical problems, building useful digital solutions, and conti
 
 ### 📫 Connect With Me
 
-- LinkedIn: [Connect with me on LinkedIn](YOUR-LINKEDIN-LINK) <a href="[https://www.linkedin.com/in/jubril-babatunde-jbcode?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/jubril-babatunde-jbcode/)">LinkedIn</a>
+- LinkedIn: Connect with me on <a href="https://www.linkedin.com/in/jubril-babatunde-jbcode/">LinkedIn</a>
 - GitHub: [Ayo-JB-CODE](https://github.com/Ayo-JB-CODE)
